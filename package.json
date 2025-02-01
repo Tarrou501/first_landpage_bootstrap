@@ -1,0 +1,15 @@
+{
+  "name": "first landpage bootstrap",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "node .\\src\\javascript.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}

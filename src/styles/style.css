@@ -1,0 +1,19 @@
+@import url('./global.css');
+@import '../../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
+.divider-line{
+   background-color: var(--bg-yellow-200);
+ 
+   height: 2px;
+}
+
+/*
+img{
+   object-fit: cover;
+
+}
+
+
+.rounded-circle{
+   overflow:hidden;
+}*/
